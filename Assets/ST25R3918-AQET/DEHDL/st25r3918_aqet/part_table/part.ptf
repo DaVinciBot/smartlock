@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ST25R3918_AQET'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "ST25R3918-AQET" (!) = "", "QFN50P500X500X100-33N-D", "Quad Flat No-Lead", "511-ST25R3918-AQET", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ST25R3918-AQET?qs=9vOqFld9vZWSlZkFPTE6DA%3D%3D", "Multi-purpose NFC transceiver", "https://www.st.com/resource/en/datasheet/st25r3918.pdf", "1 mm"
+END_PART
+
+END.

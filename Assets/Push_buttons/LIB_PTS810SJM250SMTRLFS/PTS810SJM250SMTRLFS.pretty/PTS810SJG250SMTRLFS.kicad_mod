@@ -1,0 +1,227 @@
+(footprint "PTS810SJG250SMTRLFS"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "pts810")
+	(tags "Switch")
+	(property "Reference" "S**"
+		(at -0.25 0 0)
+		(layer "F.SilkS")
+		(uuid "9cddccaa-edfc-4012-af9d-7b677b0bcb6c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "PTS810SJG250SMTRLFS"
+		(at -0.25 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2c3d4305-b712-427d-80f7-8a5fcca02ce0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ddec9a42-4c0b-4859-877d-d51cf18f233b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f92334f8-af8e-472f-a14e-1303e4a8e4ab")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3 -1.2)
+		(end -3 -1.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e0001d22-ded9-4411-a36f-896d08731550")
+	)
+	(fp_line
+		(start -3 -1)
+		(end -3 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cf7a3515-69cc-41b5-8500-1cda3ab88e78")
+	)
+	(fp_line
+		(start -2.1 -1.6)
+		(end 2.075 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5876652a-e784-44c4-a399-c4cf015b058e")
+	)
+	(fp_line
+		(start -2.1 1.6)
+		(end 2.075 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2d5abd34-22ba-4aad-b892-f5f84c1aadb9")
+	)
+	(fp_arc
+		(start -3 -1.2)
+		(mid -2.9 -1.1)
+		(end -3 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3693a984-adcc-4a66-bf45-c175de1b3acb")
+	)
+	(fp_arc
+		(start -3 -1)
+		(mid -3.1 -1.1)
+		(end -3 -1.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e8097d53-ea71-4a65-a898-d7b9edcbc1f0")
+	)
+	(fp_line
+		(start -4.1 -2.6)
+		(end 3.6 -2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "521e96e1-f387-4274-9944-e07352901ee8")
+	)
+	(fp_line
+		(start -4.1 2.6)
+		(end -4.1 -2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "bd8bda8f-28c7-4729-8db9-6228c5097b0b")
+	)
+	(fp_line
+		(start -2.1 -1.6)
+		(end 2.1 -1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "fac8e937-6ef6-4fd9-82e5-cb290578b88b")
+	)
+	(fp_line
+		(start -2.1 1.6)
+		(end -2.1 -1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "81c26e3e-aa45-43de-a112-6a80d4265d5f")
+	)
+	(fp_line
+		(start 2.1 -1.6)
+		(end 2.1 1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "7859b00a-fd3a-4909-b32c-71270e182647")
+	)
+	(fp_line
+		(start 2.1 1.6)
+		(end -2.1 1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "aa05e4fc-f5ff-462c-aac5-b820ebe431d9")
+	)
+	(fp_line
+		(start 3.6 -2.6)
+		(end 3.6 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "1f84dbe0-5e76-4958-8b02-1bdda97a8c09")
+	)
+	(fp_line
+		(start 3.6 2.6)
+		(end -4.1 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "68514268-782d-48dd-8e8d-e37750b7f583")
+	)
+	(pad "1" smd rect
+		(at -2.075 -1.075 90)
+		(size 0.65 1.05)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "a2f13935-ba42-4f10-b710-809235e379be")
+	)
+	(pad "2" smd rect
+		(at 2.075 -1.075 90)
+		(size 0.65 1.05)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "20625f5b-e206-4ced-8f3a-3f2c6dff2c46")
+	)
+	(pad "3" smd rect
+		(at -2.075 1.075 90)
+		(size 0.65 1.05)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "9530ddd4-2c45-45b0-bfd0-09e0364463d8")
+	)
+	(pad "4" smd rect
+		(at 2.075 1.075 90)
+		(size 0.65 1.05)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "1b878eb6-af58-4c17-a499-a06ff5c4b714")
+	)
+	(embedded_fonts no)
+)

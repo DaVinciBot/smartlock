@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NT3H2111W0FTTJ'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "NXP", "NT3H2111W0FTTJ" (!) = "", "SOP65P490X110-8N", "Small Outline Packages", "NT3H2111W0FTTJ", "https://www.arrow.com/en/products/nt3h2111w0fttj/nxp-semiconductors?utm_currency=USD&region=nac", "NXP - NT3H2111W0FTTJ - NTAG I- C <I>PLUS</I> 1K, NFC FORUM TYPE 2 TAG WITH I- C INTERFACE OPTIMIZED FOR ENTRY-LEVEL NFC APPLICATIONS, REEL 13" Q1 NDP,", "https://www.arrow.com/en/products/nt3h2111w0fttj/nxp-semiconductors?utm_currency=USD&region=nac", "1.1 mm"
+END_PART
+
+END.

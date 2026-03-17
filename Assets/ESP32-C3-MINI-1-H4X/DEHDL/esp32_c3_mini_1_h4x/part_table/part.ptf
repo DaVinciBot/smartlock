@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ESP32_C3_MINI_1_H4X'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Espressif Systems", "ESP32-C3-MINI-1-H4X" (!) = "", "ESP32C3MINI1H4X", "Other", "356-ESP32C3MINI1H4X", "https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-C3-MINI-1-H4X?qs=olJun0bQHM%252Bm8wbucOd%2FlA%3D%3D", "Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.412GHz ~ 2.484GHz PCB Trace Surface Mount", "", "2.55 mm"
+END_PART
+
+END.

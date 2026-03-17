@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SPX3819S_L_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "MaxLinear, Inc.", "SPX3819S-L/TR" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "701-SPX3819S-L/TR", "https://www.mouser.co.uk/ProductDetail/MaxLinear/SPX3819S-L-TR?qs=S%2FCBhQS5rCrzMX4peN58gQ%3D%3D", "LDO Voltage Regulators 500mA LOW NOISE LDO", "https://www.maxlinear.com/document?id=22106", "1.75 mm"
+END_PART
+
+END.

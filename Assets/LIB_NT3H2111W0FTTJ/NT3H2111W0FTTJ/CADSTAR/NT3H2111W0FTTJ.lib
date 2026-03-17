@@ -1,0 +1,16 @@
+.NT3H2111W0FTTJ :1 ;NXP - NT3H2111W0FTTJ - NTAG I- C <I>PLUS</I> 1K, NFC FORUM TYPE 2 TAG WITH I- C INTERFACE OPTIMIZED FOR ENTRY-LEVEL NFC APPLICATIONS, REEL 13" Q1 NDP,
+SOP65P490X110-8N
+*STM U
+*NGS
+*PLB 1="LA" 2="VSS" 3="SCL" 4="FD" 5="SDA" 6="VCC" 7="VOUT" 8="LB"
+*MXP 8
+*DFN NT3H2111W0FTTJ
+~!Arrow Part Number (NT3H2111W0FTTJ)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/nt3h2111w0fttj/nxp-semiconductors?utm_currency=USD&region=nac)
+~!Manufacturer_Name (NXP)
+~!Manufacturer_Part_Number (NT3H2111W0FTTJ)
+~!Link Datasheet (https://www.arrow.com/en/products/nt3h2111w0fttj/nxp-semiconductors?utm_currency=USD&region=nac)
+~!Height (1.1mm)
+~!3D_Model (NT3H2111W0FTTJ)
+NT3H2111W0FTTJ
+1.1!U 2.1!G 3.1!I 4.1!U 8.1!U 7.1!P 6.1!P 5.1!U 

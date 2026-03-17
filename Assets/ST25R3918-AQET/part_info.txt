@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=ST25R3918-AQET
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=33
+Version=2.1
+Released=2022-09-20 11:55:38
+Downloaded=2025-08-08 12:10:51
+3D=Y

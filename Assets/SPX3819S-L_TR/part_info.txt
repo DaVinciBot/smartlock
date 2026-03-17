@@ -1,0 +1,9 @@
+Manufacturer=MaxLinear, Inc.
+PartNumber=SPX3819S-L/TR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2021-08-28 06:32:41
+Downloaded=2025-08-04 22:32:57
+3D=Y

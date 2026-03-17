@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ESP32-C3-MINI-1-H4X"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-11-13-09:09:53)
+    (mountForm default
+        (footprintRef "ESP32C3MINI1H4X")
+        (spec "System")
+    )
+)

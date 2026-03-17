@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SPX3819S-L_TR
+D LDO Voltage Regulators 500mA LOW NOISE LDO
+K
+F https://www.maxlinear.com/document?id=22106
+$ENDCMP
+#
+#End Doc Library
