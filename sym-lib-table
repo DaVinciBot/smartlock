@@ -11,4 +11,5 @@
   (lib (name "SPX3819M5-L-1-8")(type "KiCad")(uri "${KIPRJMOD}/Assets/SPX3819M5-L-1-8/SPX3819M5-L-1-8.kicad_sym")(options "")(descr ""))
   (lib (name "ST25R3918-AQET")(type "KiCad")(uri "${KIPRJMOD}/Assets/ST25R3918-AQET/KiCad/ST25R3918-AQET.kicad_sym")(options "")(descr ""))
   (lib (name "USB-C")(type "KiCad")(uri "${KIPRJMOD}/Assets/USB-C/USB-C.kicad_sym")(options "")(descr ""))
+  (lib (name "SKSCLBE010")(type "KiCad")(uri "${KIPRJMOD}/Assets/Horizontals_Buttons/Horizontals_Buttons/SKSCLBE010.kicad_sym")(options "")(descr ""))
 )

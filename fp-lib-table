@@ -9,4 +9,5 @@
   (lib (name "TPS7A0233PDBVR")(type "KiCad")(uri "${KIPRJMOD}/Assets/TPS7A0233PDBVR.pretty")(options "")(descr ""))
   (lib (name "SPX3819M5-L-1-8")(type "KiCad")(uri "${KIPRJMOD}/Assets/SPX3819M5-L-1-8.pretty")(options "")(descr ""))
   (lib (name "USB-C")(type "KiCad")(uri "${KIPRJMOD}/Assets/USB-C")(options "")(descr ""))
+  (lib (name "SKSCLBE010")(type "KiCad")(uri "${KIPRJMOD}/Assets/Horizontals_Buttons/Horizontals_Buttons/SKSCLBE010.pretty")(options "")(descr ""))
 )
