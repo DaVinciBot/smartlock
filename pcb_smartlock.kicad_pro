@@ -58,7 +58,40 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "annular_width|112802500|92280000|8bbfd84c-fd1a-4de8-a890-3e67fbe7a173|00000000-0000-0000-0000-000000000000",
+          "ça fonctionnait sur E-Spin / JLCPCB "
+        ],
+        [
+          "annular_width|112802500|98060000|4ec065f3-4461-4cfb-958e-4684a44a1836|00000000-0000-0000-0000-000000000000",
+          "ça fonctionnait sur E-Spin / JLCPCB "
+        ],
+        [
+          "annular_width|133600000|108500000|64cdc4bc-7f96-4575-9596-43eb3b08fefb|00000000-0000-0000-0000-000000000000",
+          "ça fonctionnait sur E-Spin / JLCPCB "
+        ],
+        [
+          "annular_width|134872792|109772792|c37d59ad-a291-433f-8457-b69bd5bbd6dc|00000000-0000-0000-0000-000000000000",
+          "ça fonctionnait sur E-Spin / JLCPCB "
+        ],
+        [
+          "annular_width|136500000|82500000|1295eb1d-2d0d-46bc-a470-397b60861704|00000000-0000-0000-0000-000000000000",
+          "ça fonctionnait sur E-Spin / JLCPCB "
+        ],
+        [
+          "annular_width|137772792|81227208|e9d2d039-0d73-47f8-beb9-f35de77d4fde|00000000-0000-0000-0000-000000000000",
+          "ça fonctionnait sur E-Spin / JLCPCB "
+        ],
+        [
+          "annular_width|137831192|104376777|1ab6f551-f005-47a7-9fc4-e7185ffe3bec|00000000-0000-0000-0000-000000000000",
+          "ça fonctionnait sur E-Spin / JLCPCB "
+        ],
+        [
+          "annular_width|139103984|105649569|5c97397c-0f60-4c66-840a-0723a478fdee|00000000-0000-0000-0000-000000000000",
+          "ça fonctionnait sur E-Spin / JLCPCB "
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -123,22 +156,22 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.15,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.4,
+        "min_copper_edge_clearance": 0.3,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.3,
-        "min_hole_to_hole": 0.25,
+        "min_hole_clearance": 0.25,
+        "min_hole_to_hole": 0.3,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.125,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.5,
+        "min_through_hole_diameter": 0.3,
         "min_track_width": 0.2,
-        "min_via_annular_width": 0.1,
-        "min_via_diameter": 0.5,
+        "min_via_annular_width": 0.175,
+        "min_via_diameter": 0.3,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -189,6 +222,7 @@
       "track_widths": [
         0.0,
         0.2,
+        0.3,
         0.4
       ],
       "tuning_pattern_settings": {
@@ -223,7 +257,11 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.6,
+          "diameter": 0.7,
+          "drill": 0.3
+        },
+        {
+          "diameter": 0.8,
           "drill": 0.3
         }
       ],
