@@ -58,40 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "annular_width|112802500|92280000|8bbfd84c-fd1a-4de8-a890-3e67fbe7a173|00000000-0000-0000-0000-000000000000",
-          "ça fonctionnait sur E-Spin / JLCPCB "
-        ],
-        [
-          "annular_width|112802500|98060000|4ec065f3-4461-4cfb-958e-4684a44a1836|00000000-0000-0000-0000-000000000000",
-          "ça fonctionnait sur E-Spin / JLCPCB "
-        ],
-        [
-          "annular_width|133600000|108500000|64cdc4bc-7f96-4575-9596-43eb3b08fefb|00000000-0000-0000-0000-000000000000",
-          "ça fonctionnait sur E-Spin / JLCPCB "
-        ],
-        [
-          "annular_width|134872792|109772792|c37d59ad-a291-433f-8457-b69bd5bbd6dc|00000000-0000-0000-0000-000000000000",
-          "ça fonctionnait sur E-Spin / JLCPCB "
-        ],
-        [
-          "annular_width|136500000|82500000|1295eb1d-2d0d-46bc-a470-397b60861704|00000000-0000-0000-0000-000000000000",
-          "ça fonctionnait sur E-Spin / JLCPCB "
-        ],
-        [
-          "annular_width|137772792|81227208|e9d2d039-0d73-47f8-beb9-f35de77d4fde|00000000-0000-0000-0000-000000000000",
-          "ça fonctionnait sur E-Spin / JLCPCB "
-        ],
-        [
-          "annular_width|137831192|104376777|1ab6f551-f005-47a7-9fc4-e7185ffe3bec|00000000-0000-0000-0000-000000000000",
-          "ça fonctionnait sur E-Spin / JLCPCB "
-        ],
-        [
-          "annular_width|139103984|105649569|5c97397c-0f60-4c66-840a-0723a478fdee|00000000-0000-0000-0000-000000000000",
-          "ça fonctionnait sur E-Spin / JLCPCB "
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -568,7 +535,7 @@
     },
     "bom_presets": [],
     "bom_settings": {
-      "exclude_dnp": false,
+      "exclude_dnp": true,
       "fields_ordered": [
         {
           "group_by": false,
@@ -607,7 +574,7 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Footprint",
           "name": "Footprint",
           "show": true
