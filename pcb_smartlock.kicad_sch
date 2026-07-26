@@ -21857,8 +21857,8 @@
 				)
 			)
 		)
-		(property "Value" "b5819WS"
-			(at 260.604 151.384 0)
+		(property "Value" "SBA130CH-AU_R1_000A1"
+			(at 259.334 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21867,7 +21867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "SBA130CH-AU_R1_000A1:SOD-323HE"
 			(at 260.35 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -21878,7 +21878,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.fr/datasheet/3/3736/1/11145663EF9055F8C188C22CC003165FC5A818A8439A953D3A6E1D8FCBF51DA1.pdf"
 			(at 260.35 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -23423,8 +23423,8 @@
 				)
 			)
 		)
-		(property "Value" "b5819WS"
-			(at 103.124 80.264 0)
+		(property "Value" "SBA130CH-AU_R1_000A1"
+			(at 102.87 90.678 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23433,7 +23433,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "SBA130CH-AU_R1_000A1:SOD-323HE"
 			(at 102.87 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -23444,7 +23444,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.fr/datasheet/3/3736/1/11145663EF9055F8C188C22CC003165FC5A818A8439A953D3A6E1D8FCBF51DA1.pdf"
 			(at 102.87 77.47 0)
 			(hide yes)
 			(show_name no)
